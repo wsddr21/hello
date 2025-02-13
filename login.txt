@@ -1,0 +1,8 @@
+login
+registration
+forget password
+home
+product list
+product view
+favourites
+order details
